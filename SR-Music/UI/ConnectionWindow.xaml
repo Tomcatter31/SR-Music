@@ -30,7 +30,7 @@
                  FontSize="16"
                  HorizontalContentAlignment="Center"
                  VerticalContentAlignment="Center"
-                 IsEnabled="False"
+                 IsEnabled="True"
                  Text="127.0.0.1"
                  x:Name="EnteredIP"/>
 
